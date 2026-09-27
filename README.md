@@ -36,4 +36,4 @@ A responsive website for a gaming arena where players and teams can browse packa
 | Aaren Ryan Naidoo | ST10511005 | [@Aaren-Naidoo](https://github.com/Aaren-Naidoo) | Website Wireframes |
 | Jordan Linsei Naidoo | ST10529327 | [@jordannaidoo67](https://github.com/jordannaidoo67) | Infrastructure |
 
-**Note:** This repository is public - no private repos permitted for this task.
+
