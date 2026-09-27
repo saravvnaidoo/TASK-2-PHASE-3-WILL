@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Estimate the cost of your gaming session at Next Level Gaming and E-Sports Arena.">
+  <title>Calculate Fees | Next Level Gaming &amp; E-Sports Arena</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css"><script src="js/script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header"><div class="nav-wrap">
+    <a class="brand" href="index.html" aria-label="Next Level Gaming and E-Sports Arena home"><img class="brand-mark" src="assets/nlg-logo.jpg" alt="Next Level Gaming &amp; E-Sports Arena logo"></a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="primary-nav"><span></span><span></span><span></span></button>
+    <nav class="primary-nav" id="primary-nav" aria-label="Primary navigation"><a href="index.html">Home</a><a href="about.html">About</a><a href="package.html">Packages</a><a href="calculate-fees.html" aria-current="page">Calculate fees</a><a href="contact.html">Contact</a></nav>
+  </div></header>
+  <main id="main">
+    <section class="page-hero compact-hero"><div class="page-width page-hero-inner"><p class="eyebrow">PLAN YOUR SESSION</p><h1>Know the cost.<br><span>Then press play.</span></h1><p class="page-hero-lede">Choose your setup, set the session length and bring your crew. Your estimate updates as you go.</p></div></section>
+    <section class="section page-width calculator-section"><div class="calculator-intro"><p class="eyebrow">SESSION ESTIMATOR</p><h2>Build your <span>session.</span></h2><p>Rates are per person, per hour. The total is an estimate in South African rand (ZAR).</p><div class="rate-note"><span class="info-mark">i</span><p>PC from R45/hr · Console from R35/hr · VIP from R85/hr</p></div></div>
+      <div class="calculator-panel"><form class="calculator-form" id="calculator-form">
+        <div class="field"><label for="package-type">Choose your setup</label><select id="package-type" name="package" required><option value="pc">PC Gaming</option><option value="console">Console Gaming</option><option value="vip">VIP Experience</option></select></div>
+        <div class="form-pair"><div class="field"><label for="duration">Session length</label><div class="input-suffix"><input id="duration" name="duration" type="number" min="1" max="24" step="1" value="2" required><span>hours</span></div></div><div class="field"><label for="people">Number of players</label><div class="input-suffix"><input id="people" name="people" type="number" min="1" max="12" step="1" value="1" required><span>people</span></div></div></div>
+        <p class="calculator-error" id="calculator-error" role="status" aria-live="polite" hidden>Please enter 1–24 hours and 1–12 players.</p>
+      </form><div class="total-panel" aria-live="polite" aria-atomic="true"><span class="total-label">ESTIMATED TOTAL</span><output id="total-cost" for="package-type duration people">R 90.00</output><span class="total-caption" id="total-breakdown">2 hours · 1 player · PC Gaming</span><span class="total-disclaimer">Final availability and pricing confirmed by the arena.</span></div></div>
+      <div class="calculator-bottom"><p>Have a larger group or an event in mind?</p><a class="text-link" href="contact.html">Ask us about group bookings <span aria-hidden="true">→</span></a></div>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="page-width footer-main"><a class="brand footer-brand" href="index.html"><img class="brand-mark" src="assets/nlg-logo.jpg" alt="Next Level Gaming &amp; E-Sports Arena logo"></a><div class="footer-contact"><h2>Find your next level.</h2><a href="mailto:hello@nextlevelarena.co.za">hello@nextlevelarena.co.za</a><a href="tel:+27315550173">+27 31 555 0173</a></div><div class="footer-social"><h2>Follow the arena</h2><div class="social-links"><a href="https://www.instagram.com/" target="_blank" rel="noreferrer">Instagram <span aria-hidden="true">↗</span></a><a href="https://www.facebook.com/" target="_blank" rel="noreferrer">Facebook <span aria-hidden="true">↗</span></a><a href="https://www.tiktok.com/" target="_blank" rel="noreferrer">TikTok <span aria-hidden="true">↗</span></a></div></div></div><div class="page-width footer-bottom"><span>© <span data-year>2026</span> Next Level Gaming &amp; E-Sports Arena</span><span>Play together. Play better.</span></div></footer>
+</body>
+</html>
