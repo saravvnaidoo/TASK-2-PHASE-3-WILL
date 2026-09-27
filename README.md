@@ -34,4 +34,6 @@ A responsive website for a gaming arena where players and teams can browse packa
 | Muhammad Suleman Pharos | ST10515860 | [@Muhammad-Suleman-Pharos](https://github.com/Muhammad-Suleman-Pharos) | Team Leader |
 | Saravan Jeeth Naidoo | ST10510632 | [@saravvnaidoo](https://github.com/saravvnaidoo) | Team Secretary & Website Developer |
 | Aaren Ryan Naidoo | ST10511005 | [@Aaren-Naidoo](https://github.com/Aaren-Naidoo) | Website Wireframes |
+| Jordan Linsei Naidoo | ST10529327 | [@jordannaidoo67](https://github.com/jordannaidoo67) | Infrastructure |
+
 
