@@ -1,14 +1,14 @@
-# Next Level Gaming & Esports Arena — Website
+# Next Level Gaming & Esports Arena - Website
 
 A responsive website for a gaming arena where players and teams can browse packages, calculate booking fees, and get in touch with the venue.
 
 ## Pages
 
-1. **Home** — arena features, booking entry points
-2. **About Us** — venue backstory
-3. **Package Page** — Competitive PC Package breakdown
-4. **Calculate Fees** — interactive pricing tool
-5. **Contact Us** — venue location, contact form
+1. **Home** - arena features, booking entry points
+2. **About Us** - venue backstory
+3. **Package Page** - Competitive PC Package breakdown
+4. **Calculate Fees** - interactive pricing tool
+5. **Contact Us** - venue location, contact form
 
 ## Brand Colors
 
@@ -36,4 +36,4 @@ A responsive website for a gaming arena where players and teams can browse packa
 | Aaren Ryan Naidoo | ST10511005 | [@Aaren-Naidoo](https://github.com/Aaren-Naidoo) | Website Wireframes |
 | Jordan Linsei Naidoo | ST10529327 | [@jordannaidoo67](https://github.com/jordannaidoo67) | Infrastructure |
 
-
+**Note:** This repository is public - no private repos permitted for this task.
